@@ -1,0 +1,3 @@
+PyQt6
+PyPDF2
+PyMuPDF
